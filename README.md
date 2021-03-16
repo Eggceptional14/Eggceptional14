@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- software engineer student with dedication to write effective program
+software engineer student with dedication to learn new technology
