@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 software engineer student with dedication to learn new technology
+
+currently a Front End Developer Intern @Soft De'but
