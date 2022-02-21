@@ -20,4 +20,7 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> 🧐 Interested in machine learning </li>
   <li> 🌱 Currently learning blockchain, machine learning</li>
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
-<ul/>
+</ul>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
