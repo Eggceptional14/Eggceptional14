@@ -22,7 +22,7 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
-<!-- ### 📈 Weekly coding -->
+### 📈 Weekly coding
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
