@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-software engineer student with dedication to learn new technology
-
+<ul>
+  <li> 🎓 Software engineering students at KMITL <li/>
+  <li> 🧐 Interested in machine learning <li/>
+  <li> ⚡️Func fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ <li/>
+<ul/>
