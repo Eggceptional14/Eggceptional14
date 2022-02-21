@@ -1,4 +1,4 @@
-## Hello there 👋
+## 👋 Hi there! I'm Pitchakorn
 
 <!--
 **Eggceptional14/Eggceptional14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <ul>
   <li> 🎓 Software engineering students at KMITL </li>
   <li> 🧐 Interested in machine learning </li>
-  <li> ⚡️Func fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
+  <li> 🌱 Currently learning blockchain, machine learning</li>
+  <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 <ul/>
