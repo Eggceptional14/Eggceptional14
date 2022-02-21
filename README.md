@@ -24,4 +24,7 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 
 <!-- ### 📈 Weekly coding -->
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
