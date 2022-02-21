@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-  <li> 🎓 Software engineering students at KMITL <li/>
-  <li> 🧐 Interested in machine learning <li/>
-  <li> ⚡️Func fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ <li/>
+  <li> 🎓 Software engineering students at KMITL </li>
+  <li> 🧐 Interested in machine learning </li>
+  <li> ⚡️Func fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 <ul/>
