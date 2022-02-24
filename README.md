@@ -28,3 +28,5 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 Python   27 mins         █████████████████████████   99.63 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
