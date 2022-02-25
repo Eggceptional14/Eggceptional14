@@ -29,5 +29,7 @@ Python   27 mins         ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
-### My most used programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 My most used programming languages
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical">
+</a>
