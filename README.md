@@ -22,12 +22,16 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
-### 📈 Weekly coding time
-<!--START_SECTION:waka-->
-```text
-Python   27 mins         █████████████████████████   99.63 % 
-```
-<!--END_SECTION:waka-->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eggceptional)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<div>
+  <div>
+    ### 📈 Weekly coding time
+    <!--START_SECTION:waka-->
+    ```text
+    Python   27 mins         █████████████████████████   99.63 % 
+    ```
+    <!--END_SECTION:waka-->
+  </div>
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact)](https://github.com/anuraghazra/github-    readme-stats)
+  </div>
+</div>
