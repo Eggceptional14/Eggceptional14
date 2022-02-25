@@ -22,7 +22,7 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
-<img align="left" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="352" height="352">
+<img align="left" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="351" height="351">
 
 ### 📈 Weekly coding time
 <!--START_SECTION:waka-->
