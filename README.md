@@ -22,6 +22,8 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
+<img align="left" alt="GIF" src="" width="450" height="350">
+
 ### 📈 Weekly coding time
 <!--START_SECTION:waka-->
 ```text
@@ -31,5 +33,6 @@ Python   27 mins         ██████████████████�
 
 ### 📊 My most used programming languages
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical">
 </a>
+
