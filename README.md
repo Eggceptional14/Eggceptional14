@@ -30,7 +30,7 @@ Python   27 mins         ██████████████████�
 <!--END_SECTION:waka-->
 <br />
 
-<img align="left" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="300" height="300">
+<img align="right" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="300" height="300">
 
 ### 📊 My Github stat
 
