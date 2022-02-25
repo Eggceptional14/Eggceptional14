@@ -30,9 +30,9 @@ Python   27 mins         ██████████████████�
 <!--END_SECTION:waka-->
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="250" height="250">
+<img align="left" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="350" height="350">
 
-### 📊 My most used programming languages
+### 📊 My Github stat
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical">
