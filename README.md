@@ -39,6 +39,7 @@ Python   27 mins         ██████████████████�
 </a>
 
 <br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggceptional14&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
