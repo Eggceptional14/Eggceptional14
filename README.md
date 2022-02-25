@@ -36,3 +36,4 @@ Python   27 mins         ██████████████████�
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical">
 </a>
 
+<br />
