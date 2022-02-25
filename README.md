@@ -36,10 +36,10 @@ Python   27 mins         ██████████████████�
 
 <img align="right" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="380" height="380">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggceptional14&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggceptional14&theme=swift&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical&hide=makefile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=swift&hide=makefile">
 </a>
 
 <br />
