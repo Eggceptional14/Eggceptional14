@@ -22,13 +22,15 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
+<hr>
+
 ### 📈 Weekly coding time
 <!--START_SECTION:waka-->
 ```text
 Python   27 mins         █████████████████████████   99.63 % 
 ```
 <!--END_SECTION:waka-->
-<br />
+<hr>
 
 ### 📊 My Github stat
 
