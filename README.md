@@ -32,7 +32,7 @@ Python   27 mins         ██████████████████�
 
 ### 📊 My Github stat
 
-<img align="right" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="380" height="380">
+<img align="left" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="380" height="380">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggceptional14&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
