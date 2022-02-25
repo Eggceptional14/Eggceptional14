@@ -22,16 +22,18 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
-<img align="left" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="351" height="351">
-
 ### 📈 Weekly coding time
 <!--START_SECTION:waka-->
 ```text
 Python   27 mins         █████████████████████████   99.63 % 
 ```
 <!--END_SECTION:waka-->
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="250" height="250">
 
 ### 📊 My most used programming languages
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact&theme=radical">
 </a>
