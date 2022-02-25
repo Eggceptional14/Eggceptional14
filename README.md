@@ -29,5 +29,5 @@ Python   27 mins         ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eggceptional)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eggceptional14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
