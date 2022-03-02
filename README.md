@@ -28,9 +28,9 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 <!--START_SECTION:waka-->
 
 ```text
-Java         1 hr 41 mins    ███████████████████▒░░░░░   76.74 %
-Python       27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Java         1 hr 41 mins    ████████████▓░░░░░░░░░░░░   51.07 %
+JavaScript   1 hr 14 mins    █████████▒░░░░░░░░░░░░░░░   37.75 %
+Other        21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
 ```
 
 <!--END_SECTION:waka-->
