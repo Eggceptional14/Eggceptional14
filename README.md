@@ -19,7 +19,7 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 <ul>
   <li> 🧐 Interested in machine learning </li>
   <li> 🌱 Currently learning machine learning and deeplearning</li>
-  <li> ⚡️Fun fact: I enjoy cooking 🍳 and Mechanical keyboard ⌨️ </li>
+  <li> ⚡️Fun fact: I enjoy cooking especially desserts 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
 <hr>
