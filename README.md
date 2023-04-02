@@ -28,8 +28,8 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 <!--START_SECTION:waka-->
 
 ```text
-Python   11 hrs 31 mins  █████████████████████████   99.62 %
-CSV      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python   11 hrs 43 mins  █████████████████████████   99.63 %
+CSV      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
