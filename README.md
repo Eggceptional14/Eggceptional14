@@ -27,8 +27,8 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 ### 📈 Weekly coding time
 <!--START_SECTION:waka-->
 
-```text
-Python   3 hrs 53 mins   █████████████████████████   100.00 %
+```txt
+Python   4 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
