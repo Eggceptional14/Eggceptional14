@@ -22,6 +22,8 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
   <li> ⚡️Fun fact: I enjoy cooking especially desserts 🍳 and Mechanical keyboard ⌨️ </li>
 </ul>
 
+<img align="center" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="350" height="350">
+
 <hr>
 
 ### 📈 Weekly coding time
@@ -35,8 +37,6 @@ No activity tracked
 <hr>
 
 ### 📊 My Github stat
-
-<img align="right" alt="GIF" src="https://github.com/Eggceptional14/Eggceptional14/blob/main/coding.gif" width="350" height="350">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggceptional14&theme=github_dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
