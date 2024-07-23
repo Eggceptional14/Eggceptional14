@@ -28,11 +28,6 @@ Hi, I'm Pitchakorn, a passionate software engineering student at KMITL and forme
 
 ### 📈 Weekly coding time
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 <hr>
 
