@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 25 mins   ███████████████████████▒░   93.21 %
-CSV          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   9 hrs           ████████████████████████░   95.63 %
+CSV      17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Text     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
