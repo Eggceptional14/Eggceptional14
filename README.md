@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   16 mins         ██████████░░░░░░░░░░░░░░░   40.59 %
-JSON         12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-Markdown     11 mins         ███████░░░░░░░░░░░░░░░░░░   28.37 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON         4 mins          ████████████████████████▒   96.82 %
+Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
